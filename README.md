@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Full Stack Developer<br>🌱 I’m currently learning Typescript, Node.js, React
+🔭 I’m currently working as a Intern<br> 
 
 
 ## 🌐 Socials:
