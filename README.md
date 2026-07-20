@@ -1,2 +1,2 @@
-# 💫 About Me:
-🔭 I’m currently working<br> 
+# About Me:
+I’m currently working<br> 
